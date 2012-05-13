@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<docProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <pageTitle>AS3GIF</pageTitle>
+  <classPaths>E:\DropBox\flashstudies\1205\GIFAnime\src;E:\DropBox\flashstudies\1205\GIFAnime\lib</classPaths>
+  <sourcesList>Main LoadFile Canvas Ichimatsu</sourcesList>
+  <outputDirectory>E:\DropBox\flashstudies\1205\GIFAnime\ASDoc</outputDirectory>
+  <activeCompiler>1</activeCompiler>
+  <extraOptions>-library-path E:\DropBox\flashstudies\1205\GIFAnime\lib</extraOptions>
+</docProject>
