@@ -23,3 +23,7 @@ https://github.com/umhr/AS3GIF/tree/master/GIFEncoder
 http://www.mztm.jp/2012/05/15/as3gifgenerate/
 
 http://www.bytearray.org/?p=93
+
+
+◆ASDoc：
+https://github.com/umhr/AS3GIF/tree/master/ASDoc
