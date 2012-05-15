@@ -28,3 +28,6 @@ http://www.bytearray.org/?p=93
 ◆ASDoc：
 
 https://github.com/umhr/AS3GIF/tree/master/ASDoc
+
+hoge\n
+hoge
