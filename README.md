@@ -7,27 +7,15 @@ AS3GIF
 要はflaファイルを不要にしたのと、ファイルの読み込みをFileReferenceのload()/save()を使うようにした。
 あと、ついでにASDocも作ってみた。
 
-◆アニメGIF再生：
+◆アニメGIF再生：<br />
+https://github.com/umhr/AS3GIF/tree/master/GIFAnime<br />
+http://www.mztm.jp/2012/05/14/as3gifplayer/<br />
+http://www.bytearray.org/?p=95<br />
 
-https://github.com/umhr/AS3GIF/tree/master/GIFAnime
+◆アニメGIF生成：<br />
+https://github.com/umhr/AS3GIF/tree/master/GIFEncoder<br />
+http://www.mztm.jp/2012/05/15/as3gifgenerate/<br />
+http://www.bytearray.org/?p=93<br />
 
-http://www.mztm.jp/2012/05/14/as3gifplayer/
-
-http://www.bytearray.org/?p=95
-
-
-◆アニメGIF生成：
-
-https://github.com/umhr/AS3GIF/tree/master/GIFEncoder
-
-http://www.mztm.jp/2012/05/15/as3gifgenerate/
-
-http://www.bytearray.org/?p=93
-
-
-◆ASDoc：
-
-https://github.com/umhr/AS3GIF/tree/master/ASDoc
-
-hoge<br />
-hoge
+◆ASDoc：<br />
+https://github.com/umhr/AS3GIF/tree/master/ASDoc<br />
