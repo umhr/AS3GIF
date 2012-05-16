@@ -18,4 +18,4 @@ http://www.mztm.jp/2012/05/15/as3gifgenerate/<br />
 http://www.bytearray.org/?p=93<br />
 
 ◆ASDoc：<br />
-https://github.com/umhr/AS3GIF/tree/master/ASDoc<br />
+http://umhr.github.com/AS3GIF/ASDoc/<br />
